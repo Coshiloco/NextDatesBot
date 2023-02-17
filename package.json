@@ -1,0 +1,16 @@
+{
+  "name": "nextdatesbot",
+  "version": "1.0.0",
+  "description": "Maricones",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
